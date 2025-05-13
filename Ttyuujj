@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Срочно посмотри!</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        background: black;
+      }
+      iframe {
+        width: 100vw;
+        height: 100vh;
+        border: none;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe 
+      src="https://www.youtube.com/embed/hBGYv8EzIg4?autoplay=1&mute=0&loop=1&playlist=hBGYv8EzIg4" 
+      allow="autoplay; encrypted-media" 
+      allowfullscreen>
+    </iframe>
+  </body>
+</html>
